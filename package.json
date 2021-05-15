@@ -1,5 +1,5 @@
 {
-  "name": "nextjs",
+  "name": "wnweb",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -8,8 +8,18 @@
     "start": "next start"
   },
   "dependencies": {
-    "next": "10.x",
-    "react": "17.x",
-    "react-dom": "17.x"
+    "@headlessui/react": "^1.2.0",
+    "@heroicons/react": "^1.0.1",
+    "@n8tb1t/use-scroll-position": "^2.0.3",
+    "@tailwindcss/forms": "^0.3.2",
+    "autoprefixer": "^10.2.5",
+    "next": "10.2.0",
+    "postcss": "^8.2.15",
+    "prettier": "^2.3.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "sass": "^1.32.13",
+    "styled-components": "^5.3.0",
+    "tailwindcss": "^2.1.2"
   }
 }

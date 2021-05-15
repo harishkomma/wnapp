@@ -1,3 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import "./header.scss";
+@import "./stylecomponents/main.scss";
+
 html,
 body {
   padding: 0;
